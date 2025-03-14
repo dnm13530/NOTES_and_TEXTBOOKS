@@ -1,0 +1,4 @@
+
+Syllabus : unit 3 and 4
+3rd -- NER -->  identify Heuristics(with relationship identification), tag using parser for text(take an example)
+ex : Develop a machine translation (may be for 20 marks)
